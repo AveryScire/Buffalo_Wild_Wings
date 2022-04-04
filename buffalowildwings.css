@@ -1,7 +1,7 @@
 * { box-sizing: border-box; }
 body { 
 background-color: #FCEBB6;
-background-image: url(logo.png);
+background-image: url(wings.png);
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
@@ -84,11 +84,11 @@ width: 33%
 img {
 padding-left: 10px;
 	padding-right: 10px; }
-#wings {
+#logo {
 height: 200px;
-background-image: url(wings.png);
+background-image: url(logo.png);
 background-repeat: no-repeat;
-background-size: 100% 100%;
+background-size: 75% 100%;
 }
 #heromugs {
 height: 300px;
