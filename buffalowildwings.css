@@ -1,7 +1,7 @@
 * { box-sizing: border-box; }
 body { 
 background-color: #FCEBB6;
-background-image: url(wings.png);
+background-image: url(logo.png);
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
@@ -20,7 +20,7 @@ background-attachment: fixed;
 }   
 header { 
 	background-color: #D2B48C; 
-	background-image: url(logo.png);
+	background-image: url(wings.png);
 	background-repeat: no-repeat;
          color: #231814; 
 	padding-left: 240px;
@@ -84,9 +84,9 @@ width: 33%
 img {
 padding-left: 10px;
 	padding-right: 10px; }
-#logo {
+#wings {
 height: 200px;
-background-image: url(logo.png);
+background-image: url(wings.png);
 background-repeat: no-repeat;
 background-size: 100% 100%;
 }
