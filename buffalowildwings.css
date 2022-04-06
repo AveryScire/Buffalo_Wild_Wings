@@ -33,8 +33,8 @@ header a:link	{color: #231814;}
 header a:visited {color: #231814;}
 header a:hover	{color: #FEF6C2;}
 h1 { font-size: 3em; }
-h2 { color: #8C3826; }
-h3, dt { color: #8C3826; }
+h2 { color: #000000; }
+h3, dt { color: #000000; }
 h4 {
 	background-color: #D2B48C;
 	font-size: 1.2em;
