@@ -5,7 +5,7 @@ background-image: url(Wings.jpeg);
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
-       color: #BDB76B;
+       color: #000000;
 	   font-family: Tahoma, Arial, sans-serif; 
 }
 #wrapper { 
@@ -61,7 +61,7 @@ nav ul {
 list-style-type: none;
 	padding-left: 0; }
 main {
-background-color: #BDB76B;
+background-color: #EEE8AA;
 display: block;
 margin-left: 200px;
 overflow: auto;
